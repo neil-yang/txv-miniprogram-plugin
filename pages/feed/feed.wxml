@@ -17,7 +17,7 @@
             <image class="play_icon"
                    src="https://puui.qpic.cn/vupload/0/20181023_1540283106706_mem4262nz4.png/0"></image>
             <view class="time">11:12</view>
-            <view class="toptitle two_row">{{video.title}}-{{index}}</view>
+            <view class="toptitle two_row">{{video.title}}</view>
           </view>
         </view>
       </view>

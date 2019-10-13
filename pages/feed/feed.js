@@ -6,23 +6,23 @@ Page({
 		top: 0,
 		currVideo:{},
 		videoList: [{
-			vid:'i0918g4tzmr',
-			title:'video'
+      vid:'o0911foj4h7',
+      title:'杨戬做了什么让队友如此崩溃'
 		},{
-			vid:'p0918qdhft3',
-			title:'video'
+      vid:'j0857lhb1bw',
+      title:'s15赛季皮肤背景故事曝光，人族将军因受诅咒变成牛魔'
+  },{
+      vid:'y08857549xq',
+      title:'巅峰赛国服元芳尽力了！'
+  },{
+      vid:'c0558ot8qpg',
+      title:'万能射手狄仁杰 到底出AP强还是AD强？'
 		},{
-			vid:'b0031gp84xn',
-			title:'video'
+      vid:'c0558ot8qpg',
+      title:'万能射手狄仁杰 到底出AP强还是AD强？'
 		},{
-			vid:'c0898tfcokc',
-			title:'video'
-		},{
-			vid:'e0816ok9kfq',
-			title:'video'
-		},{
-			vid:'f0701t219c8',
-			title:'video'
+      vid:'y0928cjc7ur',
+      title:'主播我是一颗小虎牙,势不可挡妲己怎么这么难死'
 		},{
 			vid:'h0854tbemqm',
 			title:'video'

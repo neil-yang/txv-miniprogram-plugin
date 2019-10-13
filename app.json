@@ -1,12 +1,11 @@
 {
   "pages": [
-    "pages/single/single",
-    "pages/multi/multi",
-    "pages/feed/feed"
+    "pages/feed/feed",
+    "pages/single/single"
   ],
   "window": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "播放器demo",
+    "navigationBarTitleText": "趣视",
     "navigationBarBackgroundColor": "#fff",
     "backgroundColor": "#fff",
     "backgroundTextStyle": "dark",
@@ -18,27 +17,7 @@
     "uploadFile": 30000,
     "downloadFile": 30000
   },
-  "tabBar": {
-    "color": "#222",
-    "backgroundColor": "#fff",
-    "selectedColor": "#FF7000",
-    "borderStyle": "black",
-    "position": "bottom",
-    "list": [
-      {
-        "pagePath": "pages/single/single",
-        "text": "单视频"
-      },
-      {
-        "pagePath": "pages/multi/multi",
-        "text": "多视频"
-      },
-      {
-        "pagePath": "pages/feed/feed",
-        "text": "不卡顿的feed"
-      }
-    ]
-  },
+  
   "debug": true,
   "plugins": {
     "tencentvideo": {
